@@ -1,6 +1,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-image: url("backgroundimage.jfif");
+    font-weight: bold;
 }
 
 .nav-item {
