@@ -1,6 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    background-image: url("../images/backgroundimage.jfif");
+    background-image: url("backgroundimage.jfif");
     margin: 0px 0px;
     height: 100vh;
     margin: 0;
@@ -10,7 +10,7 @@ body {
 }
 
 #index-body {
-    background-image: url("../images/pic.png"); 
+    background-image: url("pic.png"); 
     background-size: cover; 
     background-repeat: no-repeat;
 }
